@@ -32,5 +32,13 @@
         <members>*</members>
         <name>StaticResource</name>
     </types>
+    <types>
+        <members>MyObject__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>System Administrator</members>
+        <name>Profile</name>
+    </types>
     <version>66.0</version>
 </Package>
